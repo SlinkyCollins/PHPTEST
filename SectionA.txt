@@ -1,0 +1,22 @@
+SECTION A 
+
+1. The full meaning of SQL is structured query language.
+
+2. FOUR SQL data types are:
+    a. INT - it is a data type for integers or whole numbers.
+    b. VARCHAR - it is a data type for variable characters.
+    c. DATE - it is a data type that stores the date and time.
+    d. BOOLEAN - it is a data type for booleans(TRUE or FALSE).
+
+3. 3 aggregate functions are :
+    a. COUNT: It counts the number of rows in a column
+    b. SUM: It adds up all the values in a single column
+    c. MIN MAX: It returns the lowest and highest values in a column
+
+4. The various categories of SQL commands are : 
+    - Data Definition Language : Used to define the structure of a database, including creating, altering, indexes, and view.
+    e.g. CREATE, ALTER
+    - Data Manipulation Language : Used to insert, update, and delete data within tables.
+    e.g. INSERT, UPDATE
+    - Data Query Language : Used to retrieve data from a database using SELECT statements.
+    e.g. SELECT, SELECT *
